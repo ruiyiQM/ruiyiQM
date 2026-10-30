@@ -15,5 +15,6 @@ My work connects three directions:
 ### Current development
 
 - **[TDMASH_pack](https://github.com/ruiyiQM/TDMASH_pack)** — RT-TDDFT-driven MASH for nonadiabatic excited-state dynamics.
+- **[LibBSE](https://github.com/ruiyiQM/LibBSE)** — a periodic BSE solver for FHI-aims and ABACUS outputs.
 - **[ExciView](https://github.com/ruiyiQM/ExciView)** — BSE and excited-state analysis tools for FHI-aims.
 - **[ABACUS development fork](https://github.com/ruiyiQM/abacus-develop)** — frozen-density embedding in ABACUS.
