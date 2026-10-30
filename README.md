@@ -1,6 +1,6 @@
 # Ruiyi Zhou
 
-### 🌐 [Academic website — research, publications, software, and CV](https://ruiyiqm.github.io/)
+### 🌐 [Academic website — everything about me](https://ruiyiqm.github.io/)
 
 [Google Scholar](https://scholar.google.com/citations?user=LnlwJG8AAAAJ) · [ORCID](https://orcid.org/0000-0002-7732-6338)
 
