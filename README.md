@@ -4,7 +4,7 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=LnlwJG8AAAAJ) · [ORCID](https://orcid.org/0000-0002-7732-6338)
 
-I am a theoretical chemist and a postdoctoral researcher with Jeremy Richardson at ETH Zürich. I develop new first-principles methods for electronic excited states and non-adiabatic dynamics in molecules and materials.
+I am a theoretical chemist and a postdoctoral researcher with Jeremy Richardson at ETH Zürich. I develop new first-principles methods for electronic excited states and non-adiabatic dynamics of molecules and materials.
 
 My research mainly includes three directions:
 
